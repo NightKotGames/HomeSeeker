@@ -1,0 +1,27 @@
+
+phoneCabin3.png
+size: 441,566
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Cabin
+  rotate: false
+  xy: 2, 2
+  size: 253, 562
+  orig: 253, 562
+  offset: 0, 0
+  index: -1
+Door
+  rotate: false
+  xy: 257, 168
+  size: 182, 396
+  orig: 182, 396
+  offset: 0, 0
+  index: -1
+Phone
+  rotate: false
+  xy: 257, 44
+  size: 110, 122
+  orig: 112, 124
+  offset: 1, 1
+  index: -1

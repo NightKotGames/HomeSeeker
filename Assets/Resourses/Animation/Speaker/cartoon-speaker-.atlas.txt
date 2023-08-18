@@ -1,0 +1,15 @@
+cartoon-speaker-.png
+size:876,876
+filter:Linear,Linear
+pma:true
+Слой 1
+bounds:2,261,740,612
+offsets:0,0,1161,880
+Слой 2
+bounds:723,455,150,347
+rotate:180
+Слой 3
+bounds:2,264,346,246
+rotate:180
+Слой 4
+bounds:623,296,250,175

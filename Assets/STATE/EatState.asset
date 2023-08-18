@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6a99083095d867c4ca2871392898598f, type: 3}
+  m_Name: EatState
+  m_EditorClassIdentifier: 
+  character: {fileID: 0}
+  dogNPC: {fileID: 0}
+  _foodPlace: {fileID: 2948654743973726932, guid: 6e58e7e3ec2f22b49aa7d76c250a982a,
+    type: 3}
+  _thisNeed: 0
+  _eatTime: 7.5
+  _saturationThreshold: 17
+  _distance: 1.8
+  _pauseTime: 2
+  _walkToTargetAnim: 0
+  _eatingAnim: 1

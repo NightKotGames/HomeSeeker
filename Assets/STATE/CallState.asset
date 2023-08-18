@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2e2d4615731d1a74faab9d5134d1ee01, type: 3}
+  m_Name: CallState
+  m_EditorClassIdentifier: 
+  character: {fileID: 0}
+  dogNPC: {fileID: 0}
+  _phoneCabin: {fileID: 1776011727241020675, guid: c39c82632899da24899db99d35ed6145,
+    type: 3}
+  _thisNeed: 1
+  _callTime: 15
+  _distance: 1.15
+  _moveToTargetAnim: 0
+  _triggerAnim: 4

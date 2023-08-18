@@ -1,0 +1,288 @@
+
+policeman.png
+size: 1973,2021
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+BackStayView/backHandSet
+  rotate: true
+  xy: 901, 78
+  size: 269, 176
+  orig: 269, 177
+  offset: 0, 1
+  index: -1
+BackStayView/backStayBody
+  rotate: false
+  xy: 2, 349
+  size: 1138, 1670
+  orig: 1138, 1670
+  offset: 0, 0
+  index: -1
+EatStayView/LefHand
+  rotate: false
+  xy: 1747, 659
+  size: 223, 592
+  orig: 223, 592
+  offset: 0, 0
+  index: -1
+EatStayView/RigthHand
+  rotate: false
+  xy: 1748, 66
+  size: 223, 591
+  orig: 223, 591
+  offset: 0, 0
+  index: -1
+SideRunView/HeadSyde
+  rotate: false
+  xy: 1142, 55
+  size: 604, 569
+  orig: 604, 569
+  offset: 0, 0
+  index: -1
+SideRunView/LeftFoot
+  rotate: false
+  xy: 2, 2
+  size: 897, 345
+  orig: 897, 345
+  offset: 0, 0
+  index: -1
+SideRunView/Слой 6
+  rotate: false
+  xy: 1142, 1233
+  size: 539, 786
+  orig: 539, 786
+  offset: 0, 0
+  index: -1
+SideRunView/Слой 7
+  rotate: true
+  xy: 1683, 1253
+  size: 766, 266
+  orig: 766, 266
+  offset: 0, 0
+  index: -1
+SideStayView/RightHand
+  rotate: true
+  xy: 1142, 626
+  size: 605, 603
+  orig: 605, 603
+  offset: 0, 0
+  index: -1
+
+policeman2.png
+size: 2029,1880
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+BackStayView/backStayHead
+  rotate: true
+  xy: 2, 601
+  size: 472, 513
+  orig: 472, 513
+  offset: 0, 0
+  index: -1
+BackStayView/backStayHelmet
+  rotate: false
+  xy: 774, 1415
+  size: 507, 300
+  orig: 507, 300
+  offset: 0, 0
+  index: -1
+EatStayView/Helmet
+  rotate: false
+  xy: 947, 1062
+  size: 507, 343
+  orig: 507, 343
+  offset: 0, 0
+  index: -1
+FrontStayView/Helmet
+  rotate: false
+  xy: 947, 1062
+  size: 507, 343
+  orig: 507, 343
+  offset: 0, 0
+  index: -1
+EatStayView/Mustache
+  rotate: false
+  xy: 2, 1743
+  size: 386, 135
+  orig: 386, 135
+  offset: 0, 0
+  index: -1
+FrontStayView/Mustache
+  rotate: false
+  xy: 2, 1743
+  size: 386, 135
+  orig: 386, 135
+  offset: 0, 0
+  index: -1
+EatStayView/Nose
+  rotate: false
+  xy: 652, 1719
+  size: 179, 159
+  orig: 181, 161
+  offset: 1, 1
+  index: -1
+EatStayView/donut
+  rotate: false
+  xy: 1283, 1407
+  size: 304, 304
+  orig: 304, 304
+  offset: 0, 0
+  index: -1
+EatStayView/frontStayHead
+  rotate: true
+  xy: 517, 588
+  size: 472, 530
+  orig: 474, 532
+  offset: 1, 1
+  index: -1
+FrontStayView/frontStayHead
+  rotate: true
+  xy: 517, 588
+  size: 472, 530
+  orig: 474, 532
+  offset: 1, 1
+  index: -1
+FrontStayView/frontStayMose
+  rotate: false
+  xy: 833, 1717
+  size: 181, 161
+  orig: 181, 161
+  offset: 0, 0
+  index: -1
+SideRunView/Gun
+  rotate: true
+  xy: 393, 1496
+  size: 221, 379
+  orig: 221, 379
+  offset: 0, 0
+  index: -1
+SideRunView/HelmetSide
+  rotate: false
+  xy: 1456, 1052
+  size: 571, 343
+  orig: 571, 344
+  offset: 0, 1
+  index: -1
+SideRunView/RigthFoot
+  rotate: false
+  xy: 2, 2
+  size: 603, 584
+  orig: 603, 584
+  offset: 0, 0
+  index: -1
+SideRunView/rigthSideNose
+  rotate: false
+  xy: 195, 1563
+  size: 196, 171
+  orig: 196, 171
+  offset: 0, 0
+  index: -1
+SideRunView/Слой 8
+  rotate: false
+  xy: 1490, 1713
+  size: 483, 165
+  orig: 483, 165
+  offset: 0, 0
+  index: -1
+SideStayView/LeftFoot
+  rotate: true
+  xy: 2, 1230
+  size: 331, 386
+  orig: 331, 386
+  offset: 0, 0
+  index: -1
+SideStayView/LeftHand
+  rotate: true
+  xy: 390, 1736
+  size: 142, 260
+  orig: 142, 260
+  offset: 0, 0
+  index: -1
+SideStayView/Mustache
+  rotate: false
+  xy: 1016, 1717
+  size: 472, 161
+  orig: 472, 161
+  offset: 0, 0
+  index: -1
+SideStayView/RigthFoot
+  rotate: true
+  xy: 1589, 1397
+  size: 314, 391
+  orig: 314, 391
+  offset: 0, 0
+  index: -1
+SideStayView/SydeStayHead
+  rotate: false
+  xy: 1049, 487
+  size: 595, 563
+  orig: 595, 563
+  offset: 0, 0
+  index: -1
+SideStayView/SydeStayHelmet
+  rotate: false
+  xy: 390, 1075
+  size: 555, 338
+  orig: 555, 338
+  offset: 0, 0
+  index: -1
+SideStayView/sideStayNose
+  rotate: false
+  xy: 2, 1574
+  size: 191, 167
+  orig: 191, 167
+  offset: 0, 0
+  index: -1
+
+policeman3.png
+size: 1354,1020
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+SideRunView/BodySyde
+  rotate: true
+  xy: 2, 2
+  size: 1016, 1350
+  orig: 1016, 1350
+  offset: 0, 0
+  index: -1
+
+policeman4.png
+size: 1301,1046
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+EatStayView/frontStayBody
+  rotate: true
+  xy: 2, 2
+  size: 1042, 1297
+  orig: 1042, 1571
+  offset: 0, 0
+  index: -1
+
+policeman5.png
+size: 1136,1074
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+SideStayView/Body
+  rotate: false
+  xy: 2, 2
+  size: 1132, 1070
+  orig: 1132, 1655
+  offset: 0, 299
+  index: -1
+
+policeman6.png
+size: 1142,1674
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+FrontStayView/frontStayBody
+  rotate: false
+  xy: 2, 2
+  size: 1138, 1670
+  orig: 1138, 1670
+  offset: 0, 0
+  index: -1

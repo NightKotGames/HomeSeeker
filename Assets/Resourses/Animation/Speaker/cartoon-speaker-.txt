@@ -1,0 +1,34 @@
+
+cartoon-speaker-.png
+size: 1092,616
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Слой 1
+  rotate: false
+  xy: 2, 2
+  size: 740, 612
+  orig: 1161, 880
+  offset: 0, 0
+  index: -1
+Слой 2
+  rotate: false
+  xy: 744, 19
+  size: 150, 347
+  orig: 150, 347
+  offset: 0, 0
+  index: -1
+Слой 3
+  rotate: false
+  xy: 744, 368
+  size: 346, 246
+  orig: 346, 246
+  offset: 0, 0
+  index: -1
+Слой 4
+  rotate: true
+  xy: 896, 116
+  size: 250, 175
+  orig: 250, 175
+  offset: 0, 0
+  index: -1

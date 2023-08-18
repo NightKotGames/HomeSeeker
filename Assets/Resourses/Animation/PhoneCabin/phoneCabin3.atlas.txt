@@ -1,0 +1,10 @@
+phoneCabin3.png
+size:568,568
+filter:Linear,Linear
+pma:true
+Cabin
+bounds:2,2,253,562
+Door
+bounds:252,168,182,396
+Phone
+bounds:256,33,112,124

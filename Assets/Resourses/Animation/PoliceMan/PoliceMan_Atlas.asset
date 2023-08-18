@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a6b194f808b1af6499c93410e504af42, type: 3}
+  m_Name: PoliceMan_Atlas
+  m_EditorClassIdentifier: 
+  atlasFile: {fileID: 4900000, guid: a22be9f1a973185478c61dd9ea1ce973, type: 3}
+  materials:
+  - {fileID: 2100000, guid: fa6ec02fb07810f4c99da79b76637e53, type: 2}
+  - {fileID: 2100000, guid: 55a876de61ab8584ba741e7d9cf3b834, type: 2}
+  - {fileID: 2100000, guid: 81b35bbd97e2b394fb7a70e5c51cf671, type: 2}
+  - {fileID: 2100000, guid: 9f7fb3fa9d522484c8a125f942d2e91a, type: 2}

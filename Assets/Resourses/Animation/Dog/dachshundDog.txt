@@ -1,0 +1,83 @@
+
+dachshundDog.png
+size: 1235,435
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+BackRightLeg
+  rotate: false
+  xy: 1095, 217
+  size: 125, 216
+  orig: 125, 216
+  offset: 0, 0
+  index: -1
+Body
+  rotate: false
+  xy: 2, 9
+  size: 659, 424
+  orig: 659, 424
+  offset: 0, 0
+  index: -1
+Front RightLeg
+  rotate: false
+  xy: 1001, 29
+  size: 78, 180
+  orig: 78, 180
+  offset: 0, 0
+  index: -1
+Head
+  rotate: true
+  xy: 663, 26
+  size: 407, 163
+  orig: 408, 163
+  offset: 0, 0
+  index: -1
+Jaws
+  rotate: true
+  xy: 828, 2
+  size: 207, 171
+  orig: 210, 174
+  offset: 2, 1
+  index: -1
+LeftEar
+  rotate: true
+  xy: 828, 211
+  size: 109, 263
+  orig: 111, 265
+  offset: 1, 1
+  index: -1
+LeftEye
+  rotate: true
+  xy: 663, 7
+  size: 17, 16
+  orig: 19, 18
+  offset: 1, 1
+  index: -1
+LeftFrontLeg
+  rotate: true
+  xy: 1081, 51
+  size: 64, 152
+  orig: 64, 152
+  offset: 0, 0
+  index: -1
+LeftHindLeg
+  rotate: true
+  xy: 1093, 117
+  size: 98, 109
+  orig: 98, 109
+  offset: 0, 0
+  index: -1
+RightEar
+  rotate: true
+  xy: 828, 322
+  size: 111, 265
+  orig: 111, 265
+  offset: 0, 0
+  index: -1
+RightEye
+  rotate: true
+  xy: 681, 7
+  size: 17, 16
+  orig: 19, 18
+  offset: 1, 1
+  index: -1

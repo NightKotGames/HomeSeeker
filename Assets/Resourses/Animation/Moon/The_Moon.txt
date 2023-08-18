@@ -1,0 +1,13 @@
+
+The_Moon.png
+size: 517,536
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Слой 1
+  rotate: false
+  xy: 2, 2
+  size: 513, 532
+  orig: 513, 532
+  offset: 0, 0
+  index: -1
